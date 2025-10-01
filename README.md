@@ -54,4 +54,4 @@ Descriptions of the mock communities and different library prepapration methods
 
 
 ## License
-This project is licensed under the [Creative Commons Attribution (CC BY)](LICENSE).
+This project is licensed under the [Creative Commons Attribution (CC BY-NC-SA)](LICENSE).
