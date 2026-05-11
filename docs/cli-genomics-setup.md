@@ -10,6 +10,13 @@ nav_order: 3
 > These instructions prepare the **shell_data** directory used in the Software Carpentry *Introduction to the Command Line for Genomics* lesson. Follow them in any Linux terminal—including your Google Cloud instance.
 
 ---
+## Before you begin:
+If your instance is not yet powered up, start it following these steps
+1. Navigate to **Agent Platform → Notebooks → Workbench**.
+2. Make sure you're in the **Instances** view.
+3. Select the checkbox next to your instance and click **Start**. Once the instance shows a green checkmark (you may need to refresh if this takes long), open **JupyterLab**.
+4. Open a new **Terminal**
+---
 
 ## 1 · Navigate to Your Home Directory
 Always keep workshop data in a tidy location (e.g., `$HOME`).
@@ -48,6 +55,7 @@ You’re now ready for the lesson!
 ### Next steps
 [Open the first lesson](https://datacarpentry.github.io/shell-genomics/01-introduction.html)
 
-As we are working from Jupyter Lab on our Google Cloud instance, you can skip the following sections:
-- How to access the shell
-- How to access the remote server
+As we are working from Jupyter Lab on our Google Cloud instance, you can **skip the following sections**:
+- **How to access the shell**
+- **How to access the remote server**
+- **Call-out** 
