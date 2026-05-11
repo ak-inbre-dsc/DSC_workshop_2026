@@ -26,6 +26,8 @@ Google Cloud should prompt you with APIs it needs to start and run your instance
    - **Notebooks API**
    - **Agent Platform API**
    - **Compute Engine API**
+   - **Cloud Resource Manager API**
+   - **Cloud Dataproc API**
 
 > You’ll see an **Enable** button on each API page—click it, wait a few seconds, then move on to the next API.
 
