@@ -29,7 +29,7 @@ This guide walks through creating the instance in the Google Cloud Console, open
 
    | Field            | Value                                                   |
    | ---------------- | ------------------------------------------------------- |
-   | **Name**         | `DSC-workshop-e2-16`                                 |
+   | **Name**         | `dsc-workshop-e2-16`                                 |
    | **Region**       | the same region you used before (e.g., `us-central1`)   |
    | **Machine type** | **e2-standard-16** (16 vCPU / 64 GB RAM)                |
 
