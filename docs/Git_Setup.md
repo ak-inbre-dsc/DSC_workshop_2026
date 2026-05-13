@@ -8,22 +8,22 @@ nav_order: 4
 
 # Getting started with Git
 
-## 1. Start your small (e2-standard-4) instance & open JupyterLab.
+### 1. Start your small (e2-standard-4) instance & open JupyterLab.
 
-## 2. Remove the old workshop repository (if present). In the **Terminal**, run:
+### 2. Remove the old workshop repository (if present). In the **Terminal**, run:
 ```bash
 rm -r dsc_workshop_2026/
 ```
 
-## 3. Clone the workshop Git repository
+### 3. Clone the workshop Git repository
 
-### GUI method 
+#### GUI method 
 
 1. In the top menu, choose **Git → Clone a Repository…**  
 2. Paste `https://github.com/ak-inbre-dsc/dsc_workshop_2026.git` and click **Clone**.  
 3. The repo appears in the file browser inside `~/dsc_workshop_2026/`.
 
-### Terminal alternative
+#### Terminal alternative
 
 ```bash
 cd ~
@@ -31,7 +31,7 @@ git clone https://github.com/ak-inbre-dsc/dsc_workshop_2026.git
 ```
 ---
 
-## 4. Work through the workshop notebooks
+### 4. Work through the workshop notebooks
 
 Open the **`notebooks/Git`** folder inside the cloned repo and run the notebooks **in this order**:
 
