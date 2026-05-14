@@ -1,4 +1,4 @@
-![header](assets/images/git_header_v2.png)
+![header](assets/images/Header.png)
 
 # Materials for the 2026 Alaska INBRE Data Science Core Genomics Workshop 
 
