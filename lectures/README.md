@@ -15,6 +15,4 @@ This lecture contains information about the mock communities and different libra
 
 - [**DSC_Workshop2026_Mod_3_1_Reproducible_Research_Principles_Git**](DSC_Workshop2026_Mod_3_1_Reproducible_Research_Principles_Git.pdf) - This lecture focuses on reproducibility and replicability of research. It introduces version control with Git as a tool. 
 
-- [**DSC-Workshop2025_Mod-3_VersionControl.pdf**](DSC-Workshop2025_Mod-3_VersionControl.pdf) - This module introduces the core concepts of version control, explaining its utility for tracking file changes and managing project histories. It provides a detailed look at the Git system and its components, as well as its integration with platforms like GitHub.
-
 - [**DSC_Workshop2026_Mod_3_2_Reproducible_Research_Tools_Github**](DSC_Workshop2026_Mod_3_2_Reproducible_Research_Tools_Github.pdf) - This lecture focuses on computational tools for enhancing research reproducibility. It explains what pipelines, containers and workflow management systems are and provides examples for each. It also introduces Github as a platform for storing and sharing these tools.
